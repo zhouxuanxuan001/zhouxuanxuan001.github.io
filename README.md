@@ -19,8 +19,6 @@
 
 
 
-import G6Editor from '@antv/g6-editor';
-
 <div id="minimap"></div>       <!-- 缩略图 DOM 结构规约参考 Minimap API -->
 <div id="toolbar"></div>       <!-- 工具栏 DOM 结构规约参考 Toolbar API --> 
 <div id="itempannel"></div>    <!-- 元素面板栏 DOM 结构规约参考 Itempannel API -->
@@ -29,10 +27,10 @@ import G6Editor from '@antv/g6-editor';
 <div id="page"></div>          <!-- 参考 Flow、Mind API -->
 
 <div class="list-group">
-  <a class="list-group-item" href="#"><i class="fa fa-home fa-fw"></i>&nbsp; 家</a>
-  <a class="list-group-item" href="#"><i class="fa fa-book fa-fw"></i>&nbsp; 小郁</a>
-  <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; 爱你</a>
-  <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; 哈哈</a>
+  <a class="list-group-item" href="#"><i class="fa fa-home fa-fw"></i>&nbsp; 小鱼</a>
+  <a class="list-group-item" href="#"><i class="fa fa-book fa-fw"></i>&nbsp; 读书</a>
+  <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; 喝酒</a>
+  <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; 游戏</a>
 </div>
 
 《纽约比加州时间早3个小时》
