@@ -1,4 +1,24 @@
 # zhouxuanxuan001.github.io 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>基础流程图</title>
+  <link rel="stylesheet" href="/build/base.css"/>
+</head>
+<body>
+<div id="mountNode"></div>
+<script src="./assets/react-16.4.0/react.production.min.js"></script>
+<script src="./assets/react-16.4.0/react-dom.production.min.js"></script>
+<script src="/build/base.js"></script>
+</body>
+</html>
+
+
+
 import G6Editor from '@antv/g6-editor';
 
 <div id="minimap"></div>       <!-- 缩略图 DOM 结构规约参考 Minimap API -->
