@@ -1,4 +1,12 @@
 # zhouxuanxuan001.github.io 
+# import G6Editor from '@antv/g6-editor';
+
+<div id="minimap"></div>       <!-- 缩略图 DOM 结构规约参考 Minimap API -->
+<div id="toolbar"></div>       <!-- 工具栏 DOM 结构规约参考 Toolbar API --> 
+<div id="itempannel"></div>    <!-- 元素面板栏 DOM 结构规约参考 Itempannel API -->
+<div id="detailpannel"></div>  <!-- 详情面板栏 DOM 结构规约参考 Detailpannel API -->
+<div id="contextmenu"></div>   <!-- 右键菜单栏 DOM 结构规约参考 Contextmenu API -->
+<div id="page"></div>          <!-- 参考 Flow、Mind API -->
 
 <div class="list-group">
   <a class="list-group-item" href="#"><i class="fa fa-home fa-fw"></i>&nbsp; 家</a>
