@@ -1,5 +1,5 @@
 # zhouxuanxuan001.github.io 
-# import G6Editor from '@antv/g6-editor';
+import G6Editor from '@antv/g6-editor';
 
 <div id="minimap"></div>       <!-- 缩略图 DOM 结构规约参考 Minimap API -->
 <div id="toolbar"></div>       <!-- 工具栏 DOM 结构规约参考 Toolbar API --> 
