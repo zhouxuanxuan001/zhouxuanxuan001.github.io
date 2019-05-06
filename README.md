@@ -1,36 +1,3 @@
-# zhouxuanxuan001.github.io 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>基础流程图</title>
-  <link rel="stylesheet" href="/build/base.css"/>
-</head>
-<body>
-<div id="mountNode"></div>
-<script src="./assets/react-16.4.0/react.production.min.js"></script>
-<script src="./assets/react-16.4.0/react-dom.production.min.js"></script>
-<script src="/build/base.js"></script>
-</body>
-</html>
-<button>in</button>
-
-<div id="minimap"></div>       <!-- 缩略图 DOM 结构规约参考 Minimap API -->
-<div id="toolbar"></div>       <!-- 工具栏 DOM 结构规约参考 Toolbar API --> 
-<div id="itempannel"></div>    <!-- 元素面板栏 DOM 结构规约参考 Itempannel API -->
-<div id="detailpannel"></div>  <!-- 详情面板栏 DOM 结构规约参考 Detailpannel API -->
-<div id="contextmenu"></div>   <!-- 右键菜单栏 DOM 结构规约参考 Contextmenu API -->
-<div id="page"></div>          <!-- 参考 Flow、Mind API -->
-
-<div class="list-group">
-  <a class="list-group-item" href="#"><i class="fa fa-home fa-fw"></i>&nbsp; 小鱼</a>
-  <a class="list-group-item" href="#"><i class="fa fa-book fa-fw"></i>&nbsp; 读书</a>
-  <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; 喝酒</a>
-  <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; 游戏</a>
-</div>
 
 《纽约比加州时间早3个小时》
 
